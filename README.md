@@ -2,11 +2,11 @@
 
 ![appicon2](https://github.com/user-attachments/assets/0bfce6bf-89b6-49bf-8767-391ddf64aadb)
 
-Are you a Discord mod? Are you a Reddit mod? Do you hate Valve?
+Are you a Discord mod? Are you a Reddit mod? Are you a local fast food chain manager?
 or are you just Trump lol
 
 Well then this is your sign,
-I understand that muting people and being an oppressive dictator on the internet and ruining kids I mean safeguarding kids can be really REALLY tough, that's why I made this MacOS exclusive that notifies you whenever McDonald's have a brand new buy one get one free deal.
+I understand that muting people and being an oppressive dictator on the internet and hating the very game launcher can be really REALLY tough, that's why I made this MacOS exclusive that notifies you whenever McDonald's have a brand new buy one get one free deal.
 
 ![appicon](https://github.com/user-attachments/assets/1877d967-10ed-4d76-91d4-5ca64085fd07)
 
