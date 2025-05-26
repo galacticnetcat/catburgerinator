@@ -19,6 +19,7 @@ Oh sorry it's only for Mac users, I hate Windows, if you use Windows please swit
 
 ## MLG LvL 9000 RAZE Guide
 Download the latest release from the releases section of this repository.
+- https://github.com/galacticnetcat/catburgerinator/releases
 
 ## White and nerdy they see me trolling they see my rolling Guide
 
