@@ -17,6 +17,11 @@ Oh sorry it's only for Mac users, I hate Windows, if you use Windows please swit
 
 # Ohhhhh you wanna know how to set this up!?
 
+## MLG LvL 9000 RAZE Guide
+Download the latest release from the releases section of this repository.
+
+## White and nerdy they see me trolling they see my rolling Guide
+
 Step -2: Star this repository.
 
 Step -1: Follow my Github.
