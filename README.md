@@ -14,3 +14,21 @@ Like you know how I always chase cheese burgers in my pfp sometimes and always t
 Oh sorry it's only for Mac users, I hate Windows, if you use Windows please switch to Linux or Mac.
 
 ![image](https://github.com/user-attachments/assets/f16ae778-7348-4a12-89cf-fffc24572942)
+
+# Ohhhhh you wanna know how to set this up!?
+
+Step -2: Star this repository.
+Step -1: Follow my Github.
+
+Step 0: Download the latest version of Python - https://python.org
+or run ```brew install python``` in your Terminal
+
+Step 1: Download this Github repository to your Desktop.
+Step 2: Unzip the zipped repository folder.
+Step 3: Delete the zip.
+Step 4: Right click on the folder.
+Step 5: Hover over to "Services"
+Step 6: Press "Open with Terminal" or something like that.
+Step 7: Copy and paste this into your Terminal and go ```pip3 install requirements.txt```, if that doesn't work then just try again but remove the 3.
+Step 8: Now copy and paste this into your Terminal go ```python3 main.py``` if that doesn't work then just try again without the 3.
+Step 9: Be a fatty. (jk jk jk)
