@@ -21,6 +21,10 @@ Oh sorry it's only for Mac users, I hate Windows, if you use Windows please swit
 Download the latest release from the releases section of this repository.
 - https://github.com/galacticnetcat/catburgerinator/releases
 
+After downloading literally just unzip, delete the zip, and then move it to /Applications if you wanna, right click on the app and press Open, it'll give you some very unreal virus warning, ignore it, it's saying that because I haven't given $100 to Apple.
+
+![image](https://github.com/user-attachments/assets/cac7afd9-af14-440c-b0b7-faa4dfc73de6)
+
 ## White and nerdy they see me trolling they see my rolling Guide
 
 Step -2: Star this repository.
@@ -47,3 +51,5 @@ Step 7: Copy and paste this into your Terminal and go ```pip3 install requiremen
 Step 8: Now copy and paste this into your Terminal go ```python3 main.py``` if that doesn't work then just try again without the 3.
 
 Step 9: Be a fatty. (jk jk jk)
+
+![image](https://github.com/user-attachments/assets/a4b32752-9506-44dd-810b-3786f3d32a38)
