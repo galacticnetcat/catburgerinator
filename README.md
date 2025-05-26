@@ -2,7 +2,7 @@
 
 ![appicon2](https://github.com/user-attachments/assets/0bfce6bf-89b6-49bf-8767-391ddf64aadb)
 
-Are you a Discord mod? Are you a Reddit mod? Are you a local fast food chain manager?
+Are you a Discord mod? Are you a Reddit mod? Do you hate Valve?
 or are you just Trump lol
 
 Well then this is your sign,
