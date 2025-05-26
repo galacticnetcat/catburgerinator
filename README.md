@@ -48,6 +48,8 @@ Step 6: Press "Open with Terminal" or something like that.
 
 Step 7: Copy and paste this into your Terminal and go ```pip3 install requirements.txt```, if that doesn't work then just try again but remove the 3.
 
+Step I forgot to add lol: Run this in your Terminal also ```brew install terminal-notifier```
+
 Step 8: Now copy and paste this into your Terminal go ```python3 main.py``` if that doesn't work then just try again without the 3.
 
 Step 9: Be a fatty. (jk jk jk)
